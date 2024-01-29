@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoardTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-11-30T18:58:44" hostname="CIS2430" time="0.293">
+  <properties/>
+  <testcase name="testGetNumStones()" classname="BoardTest" time="0.221"/>
+  <testcase name="testDistributeStones()" classname="BoardTest" time="0.008"/>
+  <testcase name="testIsSideEmpty()" classname="BoardTest" time="0.003"/>
+  <testcase name="testRegisterPlayers()" classname="BoardTest" time="0.011"/>
+  <testcase name="testCaptureStones()" classname="BoardTest" time="0.003"/>
+  <testcase name="testResetBoard()" classname="BoardTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

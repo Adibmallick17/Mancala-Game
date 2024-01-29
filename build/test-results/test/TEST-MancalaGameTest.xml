@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MancalaGameTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-11-30T18:58:44" hostname="CIS2430" time="0.23">
+  <properties/>
+  <testcase name="testGetNumStones()" classname="MancalaGameTest" time="0.02"/>
+  <testcase name="testSetCurrentPlayer()" classname="MancalaGameTest" time="0.007"/>
+  <testcase name="testGetStoreCount()" classname="MancalaGameTest" time="0.011"/>
+  <testcase name="testGetBoard()" classname="MancalaGameTest" time="0.014"/>
+  <testcase name="testStartNewGame()" classname="MancalaGameTest" time="0.004"/>
+  <testcase name="testMove()" classname="MancalaGameTest" time="0.001"/>
+  <testcase name="testToString()" classname="MancalaGameTest" time="0.049"/>
+  <testcase name="testGetPlayers()" classname="MancalaGameTest" time="0.018"/>
+  <testcase name="testGetCurrentPlayer()" classname="MancalaGameTest" time="0.001"/>
+  <testcase name="testIsGameOver()" classname="MancalaGameTest" time="0.001"/>
+  <testcase name="testGetWinner()" classname="MancalaGameTest" time="0.011"/>
+  <testcase name="testSetPlayers()" classname="MancalaGameTest" time="0.005"/>
+  <testcase name="testSetBoard()" classname="MancalaGameTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

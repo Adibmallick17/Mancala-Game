@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoreTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-11-30T18:58:44" hostname="CIS2430" time="0.038">
+  <properties/>
+  <testcase name="testEmptyStore()" classname="StoreTest" time="0.001"/>
+  <testcase name="testGetOwner()" classname="StoreTest" time="0.002"/>
+  <testcase name="testToString()" classname="StoreTest" time="0.002"/>
+  <testcase name="testAddStones()" classname="StoreTest" time="0.004"/>
+  <testcase name="testGetTotalStones()" classname="StoreTest" time="0.001"/>
+  <testcase name="testSetOwner()" classname="StoreTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
